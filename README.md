@@ -1,1 +1,1 @@
-![ML_Insurance_Prediction](https://github.com/g-gourav-r/Insurance-Cost-Predictor/assets/75977813/4bef873c-15a4-434e-a060-62b01793cf2b)
+![gif_sped](https://github.com/g-gourav-r/Insurance-Cost-Predictor/assets/75977813/863f5535-a4cd-41b6-92d6-298dd73543c5)
