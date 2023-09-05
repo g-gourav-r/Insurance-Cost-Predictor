@@ -3,6 +3,9 @@
 
 ![gif_sped](https://github.com/g-gourav-r/Insurance-Cost-Predictor/assets/75977813/863f5535-a4cd-41b6-92d6-298dd73543c5)
 
+## Project Explanation
+https://github.com/g-gourav-r/Insurance-Cost-Predictor/assets/75977813/af70cee6-5cc0-4e34-a5dd-909acce161e9
+
 ## Basic Workflow
 
 [insurance.csv] --> [model_training.ipynb] --> [trained_model.sav] (Using Pickle) --> [webapp.py] (Streamlit Web App Using the Model)
